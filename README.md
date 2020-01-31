@@ -22,7 +22,7 @@ Learners are not expected to have significant previous coding experience prior t
 
 ## MacOS
 
-##MacOS Graphical Install 
+### MacOS Graphical Install 
 
 Download the graphical [macOS installer](https://www.anaconda.com/distribution/#download-section) for Python 3.7.
 
