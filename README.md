@@ -15,3 +15,8 @@ By the end of class, learners will be exposed to:
 * Python Libraries
 
 Learners are not expected to have significant previous coding experience prior to attending. We will be using Jupyter Notebook and the open-source Anaconda Distribution. Please install [Anaconda](https://www.anaconda.com/distribution/) (which comes with Jupyter Notebook) prior to the workshop.
+
+***
+# Anaconda Installation
+
+## Linux 
