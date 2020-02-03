@@ -38,10 +38,19 @@ Learners are not expected to have significant previous coding experience prior t
 
 7. Click the continue button.
 
-8. Optional: To install PyCharm for Anaconda, click on the link to https://www.anaconda.com/pycharm. Or install without. 
+![Windows Installation Destination]()
+
+8. Choose whether to add Anaconda to your PATH environment variable. We recommend not adding Anaconda to the PATH environment variable, since this can interfere with other software. Instead, use Anaconda software by opening Anaconda Navigator or the Anaconda Prompt from the Start Menu.
+
+![Windows Installation Option]()
+
+9. Optional: To install PyCharm for Anaconda, click on the link to https://www.anaconda.com/pycharm. Or install without.
+
+![Windows Installation PyCharm]()
 
 10. A successful installation will display "The installation was completed successfully". [Verify Installation](https://docs.anaconda.com/anaconda/install/verify-install/).
 
+![Windows Installation Complete]()
 
 ## Windows
 
