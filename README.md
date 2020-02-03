@@ -1,7 +1,7 @@
 # Programming Fundamentals with Python
 Workshop Materials for Programming Fundamentals with Python - [METRO Library Council](https://metro.org/) - 2020.03.25
 
-This beginner-level class will address concepts foundational to all programming languages and provide an introduction to coding more generally using Python as its framework for learning. The class will begin with a brief discussion about how why Python is useful is used on the web and how it can be implemented into your workflow. Then, we’ll spend the remainder of the class using Python to learn about programming basics and best practices.
+This beginner-level class will address concepts foundational to all programming languages and provide an introduction to coding more generally using Python as its framework for learning. The class will begin with a brief discussion about why Python is useful and how it can be implemented into your workflow. Then, we’ll spend the remainder of the class using Python to learn about programming basics and best practices.
 
 By the end of class, learners will be exposed to:
 
@@ -14,7 +14,7 @@ By the end of class, learners will be exposed to:
 * For Loops
 * Python Libraries
 
-Learners are not expected to have significant previous coding experience prior to attending. We will be using Jupyter Notebook and the open-source Anaconda Distribution. Please install [Anaconda](https://docs.anaconda.com/anaconda/install/) (which comes with Jupyter Notebook) prior to the workshop.
+Learners are not expected to have significant previous coding experience prior to attending. We will be using Jupyter Notebook and the open-source Anaconda Distribution. Please install [Anaconda](https://docs.anaconda.com/anaconda/install/) (which comes with Jupyter Notebook) prior to the workshop. If you have any problems with the installation, feel free to consult the link above or email me at genevieve [dot] milliken [at] gmail [dot] com. There are also step-by-step installation instructions below. 
 
 ---
 
