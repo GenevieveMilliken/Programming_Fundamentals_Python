@@ -14,7 +14,7 @@ By the end of class, learners will be exposed to:
 * For Loops
 * Python Libraries
 
-Learners are not expected to have significant previous coding experience prior to attending. We will be using Jupyter Notebook and the open-source Anaconda Distribution. Please install [Anaconda](https://www.anaconda.com/distribution/) (which comes with Jupyter Notebook) prior to the workshop.
+Learners are not expected to have significant previous coding experience prior to attending. We will be using Jupyter Notebook and the open-source Anaconda Distribution. Please install [Anaconda](https://docs.anaconda.com/anaconda/install/) (which comes with Jupyter Notebook) prior to the workshop.
 
 ---
 
@@ -24,19 +24,23 @@ Learners are not expected to have significant previous coding experience prior t
 
 ### MacOS Graphical Install 
 
-Download the graphical [macOS installer](https://www.anaconda.com/distribution/#download-section) for Python 3.7.
+1. Download the graphical [macOS installer](https://www.anaconda.com/distribution/#download-section) for Python 3.7.
 
-Double-click the downloaded file and click continue to start the installation.
+2. Double-click the downloaded file and click continue to start the installation.
 
-Answer the prompts on the Introduction, Read Me, and License screens.
+3. Answer the prompts on the Introduction, Read Me, and License screens.
 
-Click the Install button to install Anaconda in your ~/opt directory (recommended).
+4. Click the Install button to install Anaconda in your ~/opt directory (recommended).
 
-Click the continue button.
+5. Click the continue button.
 
-Or to install Anaconda without PyCharm, click the Continue button.
+6. OR, click the Change Install Location button to install in another location (not recommended) On the Destination Select screen, select Install for me only.
 
-A successful installation displays the following screen:
+7. Click the continue button.
+
+8. Optional: To install PyCharm for Anaconda, click on the link to https://www.anaconda.com/pycharm. Or install without. 
+
+10. A successful installation will display "The installation was completed successfully". [Verify Installation](https://docs.anaconda.com/anaconda/install/verify-install/).
 
 
 ## Windows
