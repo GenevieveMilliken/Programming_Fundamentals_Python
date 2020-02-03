@@ -1,7 +1,7 @@
 # Programming Fundamentals with Python
 Workshop Materials for Programming Fundamentals with Python - [METRO Library Council](https://metro.org/) - 2020.03.25
 
-This beginner-level class will address concepts foundational to all programming languages and provide an introduction to coding more generally using Python as its framework for learning. The class will begin with a brief discussion about how why Python is useful is used on the web and how it can be implemented into your workflow., then We’ll spend the remainder of the class using Python to learn about programming basics and best practices.
+This beginner-level class will address concepts foundational to all programming languages and provide an introduction to coding more generally using Python as its framework for learning. The class will begin with a brief discussion about how why Python is useful is used on the web and how it can be implemented into your workflow. Then, we’ll spend the remainder of the class using Python to learn about programming basics and best practices.
 
 By the end of class, learners will be exposed to:
 
