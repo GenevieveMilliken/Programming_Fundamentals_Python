@@ -20,13 +20,11 @@ Learners are not expected to have significant previous coding experience prior t
 
 # Anaconda Installation
 
-* [MacOS](##MacOS)
-* [Windows](##Windows)
-* [Linux](##Linux)
+- [MacOS](##MacOS)
+- [Windows](##Windows)
+- [Linux](##Linux)
 
-## MacOS
-
-### MacOS Graphical Install 
+# MacOS
 
 1. Download the graphical [macOS installer](https://www.anaconda.com/distribution/#download-section) for Python 3.7.
 
@@ -48,7 +46,7 @@ Learners are not expected to have significant previous coding experience prior t
 
 10. A successful installation will display "The installation was completed successfully". [Verify Installation](https://docs.anaconda.com/anaconda/install/verify-install/).
 
-## Windows
+# Windows
 
 1. Download the Anaconda installer.
 
@@ -82,7 +80,7 @@ Learners are not expected to have significant previous coding experience prior t
 
 ![Windows Installation Complete](Install_Images/win-install-complete.png)
 
-## Linux 
+# Linux 
 
 1. In your browser, download the [Anaconda installer for Linux](https://www.anaconda.com/distribution/#linux) (Python 3.7 version).
 
