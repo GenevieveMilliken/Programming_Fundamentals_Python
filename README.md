@@ -20,6 +20,10 @@ Learners are not expected to have significant previous coding experience prior t
 
 # Anaconda Installation
 
+- [MacOS](##MacOS)
+- [Windows](##Windows)
+- [Linux](##Linux)
+
 ## MacOS
 
 ### MacOS Graphical Install 
