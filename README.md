@@ -50,7 +50,7 @@ Learners are not expected to have significant previous coding experience prior t
 
 10. A successful installation will display "The installation was completed successfully". [Verify Installation](https://docs.anaconda.com/anaconda/install/verify-install/).
 
-![Windows Installation Complete]()
+![Windows Installation Complete](Install_Images/win-install-complete.png)
 
 ## Windows
 
