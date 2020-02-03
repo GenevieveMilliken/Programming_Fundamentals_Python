@@ -45,11 +45,37 @@ Learners are not expected to have significant previous coding experience prior t
 
 ## Windows
 
+1. Download the Anaconda installer.
+
+2. OPTIONAL: Verify data integrity with [SHA-256](https://docs.anaconda.com/anaconda/install/hashes/).
+
+3. Double click the installer to launch.
+
+4. Click Next.
+
+5. Read the licensing terms and click “I Agree”.
+
+6. Select an install for “Just Me” unless you’re installing for all users (which requires Windows Administrator privileges) and click Next.
+
+7. Select a destination folder to install Anaconda and click the Next button. See [FAQ](https://docs.anaconda.com/anaconda/user-guide/faq/#distribution-faq-windows-folder).
+
+8. Choose whether to add Anaconda to your PATH environment variable. We recommend not adding Anaconda to the PATH environment variable, since this can interfere with other software. Instead, use Anaconda software by opening Anaconda Navigator or the Anaconda Prompt from the Start Menu.
+
+9. Choose whether to register Anaconda as your default Python. Unless you plan on installing and running multiple versions of Anaconda or multiple versions of Python, accept the default and leave this box checked.
+
+10. Click the Install button. If you want to watch the packages Anaconda is installing, click Show Details.
+
+11. Click the Next button.
+
+12. Optional: To install PyCharm for Anaconda, click on the link to https://www.anaconda.com/pycharm. Or to install Anaconda without PyCharm, click the Next button.
+
+13. After a successful installation you will see the “Thanks for installing Anaconda” dialog box:
+
 ## Linux 
 
 1. In your browser, download the [Anaconda installer for Linux](https://www.anaconda.com/distribution/#linux) (Python 3.7 version).
 
-2. RECOMMENDED: Verify integrity with SHA-256 checksum:
+2. OPTIONAL: Verify integrity with SHA-256 checksum:
 
 `sha256sum /path/filename`
 
