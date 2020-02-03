@@ -48,7 +48,7 @@ Learners are not expected to have significant previous coding experience prior t
 
 9. A successful installation will display "The installation was completed successfully". [Verify Installation](https://docs.anaconda.com/anaconda/install/verify-install/).
 
-![Mac install complete](Install_Images/osx-install-complete.png)
+![Mac install complete](Install_Images/osx-install-success.png)
 
 # Windows
 
