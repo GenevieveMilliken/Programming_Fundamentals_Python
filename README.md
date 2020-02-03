@@ -43,27 +43,39 @@ A successful installation displays the following screen:
 
 ## Linux 
 
-In your browser, download the [Anaconda installer for Linux](https://www.anaconda.com/distribution/#linux) (Python 3.7 version).
+1. In your browser, download the [Anaconda installer for Linux](https://www.anaconda.com/distribution/#linux) (Python 3.7 version).
 
-After fully downloaded (it may take a few minutes), enter the following to install Anaconda for Python 3.7:
+2. RECOMMENDED: Verify integrity with SHA-256 checksum:
+
+`sha256sum /path/filename`
+
+3. After fully downloaded (it may take a few minutes), enter the following to install Anaconda for Python 3.7:
 
 `bash ~/Downloads/Anaconda3-2019.10-Linux-x86_64.sh`
 
-Scroll to the bottom of the license terms and enter “Yes” to agree.
+4. The installer prompts “In order to continue the installation process, please review the license agreement.” Click Enter to view license terms.
 
-The installer prompts “Do you wish the installer to initialize Anaconda3 by running conda init?” Enter “yes” again.
+5. Scroll to the bottom of the license terms and enter “Yes” to agree.
 
-Close and open your terminal window for the installation to take effect, or you can enter the command source
+6. The installer prompts you to click Enter to accept the default install location. Click Enter.
+
+7. The installer prompts “Do you wish the installer to initialize Anaconda3 by running conda init?” Enter “yes”.
+
+8. The installer finishes and displays “Thank you for installing Anaconda<2 or 3>!”
+
+9. (Optional) The installer provides a link to install PyCharm for Anaconda at https://www.anaconda.com/pycharm.
+
+10. Close and open your terminal window for the installation to take effect, or you can enter the command source
 
 `~/.bashrc`
 
-To run conda from anywhere without having the base environment activated by default, use:
+11. To run conda from anywhere without having the base environment activated by default, use:
 
 `conda init`
 
 `conda config --set auto_activate_base False`
 
-Launch Anaconda Navigator 
+12. Launch Anaconda Navigator 
 
 `$ source ~/anaconda3/bin/activate root`
 
