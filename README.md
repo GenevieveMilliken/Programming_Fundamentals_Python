@@ -14,7 +14,7 @@ By the end of class, learners will be exposed to:
 * For Loops
 * Python Libraries
 
-Learners are not expected to have significant previous coding experience prior to attending. We will be using Jupyter Notebook and the open-source Anaconda Distribution. Please install [Anaconda](https://docs.anaconda.com/anaconda/install/) (which comes with Jupyter Notebook) prior to the workshop. If you have any problems with the installation, feel free to consult the link above or email me at genevieve [dot] milliken [at] gmail [dot] com. There are also step-by-step installation instructions below. 
+Learners are not expected to have significant previous coding experience prior to attending. We will be using Jupyter Notebook and Anaconda. Please install [Anaconda](https://docs.anaconda.com/anaconda/install/) (which comes with Jupyter Notebook) prior to the workshop. If you have any problems with the installation, feel free to consult the link above or email me at genevieve [dot] milliken [at] gmail [dot] com. There are also step-by-step installation instructions below. 
 
 ---
 
