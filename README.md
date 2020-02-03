@@ -38,19 +38,11 @@ Learners are not expected to have significant previous coding experience prior t
 
 7. Click the continue button.
 
-![Windows Installation Destination](Install_Images/win-install-destination.png)
-
 8. Choose whether to add Anaconda to your PATH environment variable. We recommend not adding Anaconda to the PATH environment variable, since this can interfere with other software. Instead, use Anaconda software by opening Anaconda Navigator or the Anaconda Prompt from the Start Menu.
-
-![Windows Installation Option](Install_Images/win-install-options.png)
 
 9. Optional: To install PyCharm for Anaconda, click on the link to https://www.anaconda.com/pycharm. Or install without.
 
-![Windows Installation PyCharm](Install_Images/win-install-pycharm.png)
-
 10. A successful installation will display "The installation was completed successfully". [Verify Installation](https://docs.anaconda.com/anaconda/install/verify-install/).
-
-![Windows Installation Complete](Install_Images/win-install-complete.png)
 
 ## Windows
 
@@ -68,7 +60,11 @@ Learners are not expected to have significant previous coding experience prior t
 
 7. Select a destination folder to install Anaconda and click the Next button. See [FAQ](https://docs.anaconda.com/anaconda/user-guide/faq/#distribution-faq-windows-folder).
 
+![Windows Installation Destination](Install_Images/win-install-destination.png)
+
 8. Choose whether to add Anaconda to your PATH environment variable. We recommend not adding Anaconda to the PATH environment variable, since this can interfere with other software. Instead, use Anaconda software by opening Anaconda Navigator or the Anaconda Prompt from the Start Menu.
+
+![Windows Installation Option](Install_Images/win-install-options.png)
 
 9. Choose whether to register Anaconda as your default Python. Unless you plan on installing and running multiple versions of Anaconda or multiple versions of Python, accept the default and leave this box checked.
 
@@ -79,6 +75,8 @@ Learners are not expected to have significant previous coding experience prior t
 12. Optional: To install PyCharm for Anaconda, click on the link to https://www.anaconda.com/pycharm. Or to install Anaconda without PyCharm, click the Next button.
 
 13. After a successful installation you will see the “Thanks for installing Anaconda” dialog box:
+
+![Windows Installation Complete](Install_Images/win-install-complete.png)
 
 ## Linux 
 
