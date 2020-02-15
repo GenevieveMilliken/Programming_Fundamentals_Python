@@ -118,7 +118,7 @@ Learners are not expected to have significant previous coding experience prior t
 
 `conda config --set auto_activate_base False`
 
-12. Launch Anaconda Navigator 
+12. Launch Anaconda Navigator from terminal
 
 `$ source ~/anaconda3/bin/activate root`
 
