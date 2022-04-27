@@ -26,7 +26,7 @@ Learners are not expected to have significant previous coding experience prior t
 
 # MacOS
 
-1. Download the graphical [macOS installer](https://www.anaconda.com/distribution/#download-section) for Python 3.7.
+1. Download the graphical [macOS installer](https://www.anaconda.com/distribution/#download-section) for Python 3.9.
 
 2. Double-click the downloaded file and click continue to start the installation.
 
